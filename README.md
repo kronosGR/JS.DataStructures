@@ -1,2 +1,5 @@
-#Data structures Implementation
+# Data structures Implementation
 * Array
+
+
+## Exercises
