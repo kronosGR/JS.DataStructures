@@ -4,3 +4,4 @@
 
 ## Exercises
 * String reverse
+* Merge two sorted arrays
