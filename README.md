@@ -1,5 +1,6 @@
 # Data structures Implementation
 * Array
+* HashTable
 
 
 ## Exercises
