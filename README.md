@@ -1,6 +1,7 @@
 # Data structures Implementation
 * Array
 * HashTable
+* Linked List
 
 
 ## Exercises
