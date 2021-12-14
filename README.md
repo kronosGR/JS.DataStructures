@@ -2,6 +2,7 @@
 * Array
 * HashTable
 * Linked List
+* Stack
 
 
 ## Exercises
