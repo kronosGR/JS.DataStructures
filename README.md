@@ -3,6 +3,7 @@
 * HashTable
 * Linked List
 * Stack
+* Queue
 
 
 ## Exercises
