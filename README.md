@@ -9,6 +9,7 @@
 
 ## Exercises
 * String reverse
+* String reverse recursive
 * Merge two sorted arrays
 * Find the first recurring character
 * Find the Factorial of a number (recursive and iterative)
