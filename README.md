@@ -6,6 +6,9 @@
 * Queue
 * Tree
 
+# Algorithm implementation
+* Bubble sort
+
 
 ## Exercises
 * String reverse
