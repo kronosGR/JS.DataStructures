@@ -9,6 +9,7 @@
 # Algorithm implementation
 * Bubble sort
 * Selection sort
+* Insertion sort
 
 
 ## Exercises
