@@ -8,6 +8,7 @@
 
 # Algorithm implementation
 * Bubble sort
+* Selection sort
 
 
 ## Exercises
