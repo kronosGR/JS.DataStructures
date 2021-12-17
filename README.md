@@ -13,6 +13,7 @@
 * Merge sort
 * Quick sort
 * Radix sort
+* Counting sort
 
 
 ## Exercises
