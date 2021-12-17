@@ -12,6 +12,7 @@
 * Insertion sort
 * Merge sort
 * Quick sort
+* Radix sort
 
 
 ## Exercises
