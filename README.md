@@ -14,6 +14,9 @@
 * Quick sort
 * Radix sort
 * Counting sort
+* Binary Tree Search
+* Binary Tree Search Recursive
+
 
 
 ## Exercises
